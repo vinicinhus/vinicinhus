@@ -2,7 +2,7 @@
 
 
 
-<img style = "height:244px;" align="right" width = "width" src="./img/kali.jpeg">
+
 
 ```python
 def get_information_about_me() -> str:
